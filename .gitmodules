@@ -1,0 +1,6 @@
+[submodule "slack-archive-bot"]
+	path = slack-archive-bot
+	url = https://github.com/docmarionum1/slack-archive-bot
+[submodule "slack-export-viewer"]
+	path = slack-export-viewer
+	url = https://github.com/hfaran/slack-export-viewer
